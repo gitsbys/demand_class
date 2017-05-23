@@ -1,2 +1,2 @@
 <?php 
-echo 'git is a version control system';
+echo 'git is a distribated version control system';
