@@ -1,2 +1,2 @@
 <?php 
-git is system control software;
+git is a distributed system control software;
